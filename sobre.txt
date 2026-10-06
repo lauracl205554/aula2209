@@ -1,2 +1,4 @@
 Nome do Projeto: Meu Site Livre
 Desenvolvedor: Laura Oliveira
+Data de Inicio: 06/10/2026
+Descrição: Um site simples criado para praticar comandos do Git.
